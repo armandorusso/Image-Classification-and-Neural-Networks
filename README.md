@@ -1,1 +1,1 @@
-Image Classification and Neural Networks
+Image Classification & Neural Networks
