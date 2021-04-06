@@ -1,6 +1,6 @@
 <h1>Image Classification & Neural Networks</h1>
 A project where I was tasked to create our own Feed-Forward Neural Network and Covolution Neural Network (CNN) to classify images.
-If you would like to simulate my CNN output, load the .pth file at the bottom of the notebook.
+If you would like to simulate my CNN output, load the .pth file at the bottom of the notebook.</br></br>
 
 **Feed-Forward Neural Network Outputs**</br>
 ![Part 1 Epoch Output (secondary output)](https://user-images.githubusercontent.com/46937969/113756510-77665280-96df-11eb-88b1-3f24b0f70a5f.png)
