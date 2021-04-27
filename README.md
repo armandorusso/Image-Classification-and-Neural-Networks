@@ -1,5 +1,5 @@
 <h1>Image Classification & Neural Networks</h1>
-A project where I was tasked to create our own Feed-Forward Neural Network and Covolution Neural Network (CNN) to classify images.
+A project where I was  tasked to create my own Feed-Forward Neural Network and Covolution Neural Network (CNN) to classify images.
 If you would like to simulate my CNN output, load the .pth file at the bottom of the notebook.</br></br>
 
 **Feed-Forward Neural Network Outputs**</br>
